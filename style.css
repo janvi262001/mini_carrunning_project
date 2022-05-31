@@ -1,0 +1,27 @@
+#back{
+    background: url("image/side.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    width: auto;
+    height: 500px;
+}
+#road{
+    background: url("image/road.jpg");
+}
+#car{
+   
+    width: 150px;
+}
+#dbtn{
+    text-align: center;
+}
+
+.btn {
+    background-color: yellow;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 7px;
+    width: 100px;
+    cursor: pointer;
+}
